@@ -10,13 +10,15 @@ We are looking to recruit talented GSoC students to help us push the state-of-th
 
 We've prepared the following list of projects that are of most interest to us. Students may also propose their own variations on these projects:
 
-ESIP <a href="http://esipfed.org/partners"> Member Organizations</a> will add their ideas over the next month. 
+1.
+2.
+
+*ESIP <a href="http://esipfed.org/partners"> Member Organizations</a> will add their ideas over the next month. 
 
 # Application
 See our [Application Template] here. 
 
 # Questions?
 
-[contact form]: http://esipfed.org/contact
-[googadvice]: https://code.google.com/p/google-summer-of-code/wiki/AdviceforStudents
-
+Contact us: http://esipfed.org/contact
+Application Advice: https://code.google.com/p/google-summer-of-code/wiki/AdviceforStudents
