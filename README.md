@@ -16,7 +16,7 @@ We've prepared the following list of projects that are of most interest to us. S
 *ESIP <a href="http://esipfed.org/partners"> Member Organizations</a> will add their ideas over the next month. 
 
 # Application
-See our [Application Template] here. 
+See our <a href="https://github.com/ESIPFed/GSoC/wiki/Application-Template"> here</a>. 
 
 # Questions?
 
