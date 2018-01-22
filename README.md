@@ -8,7 +8,7 @@ We are looking to recruit talented GSoC students to help us push the state-of-th
 
 # Ideas
 
-ESIP <a href="http://esipfed.org/partners"> Member Organizations</a> will add their ideas over the next month to our [ideas page][1]. 
+ESIP <a href="http://esipfed.org/partners"> Member Organizations</a> will add their ideas over the next month to our <a href="https://github.com/ESIPFed/GSoC/issues"> ideas page</a>. 
 
 # Application
 See our application template <a href="https://github.com/ESIPFed/GSoC/wiki/Application-Template"> here</a>. 
