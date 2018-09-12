@@ -1,7 +1,7 @@
 # Google Summer of Code
 
 <img src="http://www.esipfed.org/sites/default/files/esip-logo.png" align="right" width="200" />
-<img src="https://summerofcode.withgoogle.com/static/img/og-image.png" align="right" width="200" />
+<img src="https://summerofcode.withgoogle.com/static/img/og-image.png" align="right" width="100" />
 
 # About ESIP
 
