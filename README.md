@@ -13,13 +13,13 @@ We are looking to recruit talented GSoC students to help us push the state-of-th
 
 # Ideas
 
-ESIP <a href="http://esipfed.org/partners">Members and Member Organizations</a> will add their ideas to our <a href="https://github.com/ESIPFed/GSoC/issues">ideas page</a>. 
+ESIP <a href="http://esipfed.org/partners">Members and Member Organizations</a> will add their ideas to our <a href="https://github.com/ESIPFed/GSoC-2019/issues">ideas page</a>. 
 
 # Application
 See our application template <a href="https://github.com/ESIPFed/GSoC/wiki/Application-Template">here</a>. 
 
 # Questions?
 
-Contact us: http://esipfed.org/contact
+Contact us: lab@esipfed.org
 
 Application Advice: https://code.google.com/p/google-summer-of-code/wiki/AdviceforStudents
