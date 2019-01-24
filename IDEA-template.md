@@ -1,4 +1,4 @@
-# Sub Organization Name
+# ESIP Member Organization Name
 
 ## Mentors
 
