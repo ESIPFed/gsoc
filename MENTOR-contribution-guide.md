@@ -15,6 +15,8 @@ When you submit your idea, please contact us (lab@esipfed.org) and tell us your 
 to contact you.
 
 ## Mentors Project Guidance 
+To participate in a mentor for GSOC, you must submit a project idea. Please read the below guidance before submitting an idea. 
+
 ### Projects
 
 Please make sure that the project can be partly completed during the summer so
