@@ -8,9 +8,9 @@ for [Google Summer of Code 2019](https://summerofcode.withgoogle.com/). ESIP (ht
 
 We are looking to recruit talented GSoC students to help us push the state-of-the-art in Earth sciences cyberinfrastruction. We plan to post all code contributed by GSoC students for dissemination to the general public under open source licenses.
 
-# Ideas
+# Project Ideas
 
-ESIP <a href="http://esipfed.org/partners"> members </a> should add their ideas to our <a href="https://github.com/ESIPFed/gsoc/issues">ideas page</a>. 
+If would like to submit an idea for GSOC, please read the [Mentor Contribution Guidance] (/MENTOR-contribution-guide.md).
 
 # Application
 See our application template <a href="https://github.com/ESIPFed/GSoC/STUDENT-proposal.md">here</a>. 
