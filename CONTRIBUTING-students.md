@@ -146,7 +146,7 @@ help a lot.
 ### Final Proposal
 
 Your final proposal must be submitted to [GSoC](summerofcode.withgoogle.com) as
-a PDF file. Your proposal name should start with *[sub-org-name]* to make
+a PDF file. Your proposal name should start with *[esip-member-name]* to make
 identification easier for the mentors. To convert a draft that you have written
 before into PDF you can use [Pandoc][Pandoc].
 
@@ -154,8 +154,6 @@ before into PDF you can use [Pandoc][Pandoc].
 $ pandoc -f markdown -t pdf YYYY/proposals/your-name.md
 ~~~
 
-[IL]: 2018/ideas-list.md
-[issues]: https://github.com/numfocus/gsoc/issues
+[issues]: https://github.com/esip/gsoc/issues
 [GSoC]: http://summerofcode.withgoogle.com/
-[ML]: organization/team.md
 [Pandoc]: http://pandoc.org/
