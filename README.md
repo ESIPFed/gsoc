@@ -9,10 +9,10 @@ for [Google Summer of Code 2019][GSOC]. [ESIP][ESIP] is funded by NASA, NOAA, an
 We are looking to recruit talented GSoC students to help us push the state-of-the-art in Earth sciences cyberinfrastruction. We plan to post all code contributed by GSoC students for dissemination to the general public under open source licenses.
 
 ## Mentors
-* [Mentor Contribution Guidance][MCG].
+* [Mentor Contribution Guide][MCG].
 
 ## Students
-* Student Contribution Guide[SCG]
+* [Student Contribution Guide][SCG]
 * [Student Proposal Template][SPT]. 
 
 ### Questions?
