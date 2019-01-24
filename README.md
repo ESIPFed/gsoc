@@ -3,13 +3,10 @@
 <img src="http://www.esipfed.org/sites/default/files/esip-logo.png" align="right" width="200" />
 <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" align="right" width="100" />
 
-# About ESIP
-
-The <a href="http://esipfed.org/" target="_blank">Earth Science Information Partners</a> is an open, networked community that brings together science, data and information technology practitioners. To learn a little more about ESIP, see a list of recent outputs <a href="http://esipfed.org/esip-outputs-list">here</a>.
+Earth Science Information Partners (ESIP) will be applying again as an umbrella mentoring organization
+for [Google Summer of Code 2019](https://summerofcode.withgoogle.com/). ESIP (https://esipfed.org) is funded by NASA, NOAA, and USGS and supports the development of visionary Earth science technologies that ultimatly advance our knowledge of Earth system science. 
 
 We are looking to recruit talented GSoC students to help us push the state-of-the-art in Earth sciences cyberinfrastruction. We plan to post all code contributed by GSoC students for dissemination to the general public under open source licenses.
-
------
 
 # Ideas
 
