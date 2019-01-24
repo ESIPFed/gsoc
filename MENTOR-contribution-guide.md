@@ -31,5 +31,5 @@ There has to be at least one primary mentor and one backup mentor per project.
 This means you should have at least 2 mentors available. A mentor can only be
 'primary' for one student but a backup for as many as they like. 
 
-If you have an idea you can use our [idea templates](https://github.com/ESIPFed/gsoc/blob/master/IDEA-template.md) and
-publish the [issues page](https://github.com/ESIPFed/gsoc/issues) for this repo.
+If you have a project idea, you can use our [idea templates](https://github.com/ESIPFed/gsoc/blob/master/IDEA-template.md) and
+publish it to the [issues page](https://github.com/ESIPFed/gsoc/issues) for this repo.
