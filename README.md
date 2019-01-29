@@ -19,7 +19,7 @@ We are looking to recruit talented GSoC students to help us push the state-of-th
 
 Contact us: lab@esipfed.org
 
-Application Advice: https://code.google.com/p/google-summer-of-code/wiki/AdviceforStudents
+More questions? Check out the GSoC mentor/student guides here: https://google.github.io/gsocguides/
 
 [ESIP]: https://esipfed.org
 [GSOC]: https://summerofcode.withgoogle.com/
