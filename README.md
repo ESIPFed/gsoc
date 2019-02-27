@@ -1,5 +1,7 @@
 # Google Summer of Code
 
+[![Join the chat at https://gitter.im/ESIPFed/gsoc](https://badges.gitter.im/ESIPFed/gsoc.svg)](https://gitter.im/ESIPFed/gsoc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="http://www.esipfed.org/sites/default/files/esip-logo.png" align="right" width="200" />
 <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" align="right" width="100" />
 
