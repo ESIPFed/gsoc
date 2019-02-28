@@ -8,9 +8,6 @@ idea must:
 2. Be willing to commit for the full GSoC period.
 3. Be a willing and engaged mentor. 
 
-You can submit ideas up to 3 days after Google announces that ESIP is
-participating as a umbrella org.
-
 When you submit your idea, please contact us (lab@esipfed.org) and tell us your preferred way for students
 to contact you.
 
