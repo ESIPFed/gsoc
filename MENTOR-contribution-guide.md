@@ -5,7 +5,7 @@ To be eligible to participate in GSoC under the ESIP umbrella, any individual su
 idea must:
 
 1. Be employed at a current ESIP member organization. 
-2. Be willing to commit for the full GSoC period.
+2. Be willing to commit for the full GSoC period (see timeline [here](https://summerofcode.withgoogle.com/how-it-works/)).
 3. Be a willing and engaged mentor. 
 
 When you submit your idea, please contact us (lab@esipfed.org) and tell us your preferred way for students
