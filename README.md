@@ -26,5 +26,5 @@ More questions? Check out the GSoC mentor/student guides here: https://google.gi
 [ESIP]: https://esipfed.org
 [GSOC]: https://summerofcode.withgoogle.com/
 [MCG]: MENTOR-contribution-guide.md
-[SPT]: MSTUDENT-proposal.md
+[SPT]: STUDENT-proposal.md
 [SCG]: STUDENT-contribution-guide.md
