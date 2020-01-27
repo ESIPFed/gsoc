@@ -6,7 +6,7 @@
 <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" align="right" width="100" />
 
 Earth Science Information Partners (ESIP) will be applying again as an umbrella mentoring organization
-for [Google Summer of Code 2019][GSOC]. [ESIP][ESIP] is funded by NASA, NOAA, and USGS and supports the development of visionary Earth science technologies that advance our knowledge of Earth system science. 
+for [Google Summer of Code 2020][GSOC]. [ESIP][ESIP] is funded by NASA, NOAA, and USGS and supports the development of visionary Earth science technologies that advance our knowledge of Earth system science. 
 
 We are looking to recruit talented GSoC students to help us push the state-of-the-art in Earth sciences cyberinfrastruction. We plan to post all code contributed by GSoC students for dissemination to the general public under open source licenses.
 
