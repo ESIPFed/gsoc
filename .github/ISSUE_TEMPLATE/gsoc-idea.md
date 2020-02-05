@@ -2,7 +2,7 @@
 name: GSOC Idea
 about: Propose an ESIP idea for Google Summer of Code
 title: "[GSOC Idea] "
-labels: ''
+labels: 'GSoC 2020'
 assignees: ''
 
 ---
