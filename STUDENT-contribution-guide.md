@@ -31,7 +31,7 @@ enthusiasm above specific knowledge of the libraries or algorithms we use. We
 think that an interested and motivated student who is willing to learn is more
 valuable than anything else. The range of available projects should suit people
 with different backgrounds. At the same time if you have experience using your
-project of choice or one of it's dependencies (e.g. language) make sure to let
+project of choice or one of its dependencies (e.g. language) make sure to let
 us know about that as
 well.
 [FLOSS manual](http://write.flossmanuals.net/gsocstudentguide/am-i-good-enough/)
@@ -66,7 +66,7 @@ and we will help you.
 - 3pts Do you have time for GSOC? This is a paid job! State that you have time in your motivation letter, and list other commitments!
 - 1pts Added a link to ALL your application files to a cloud hoster like github or dropbox? (easy points! 😉 )
 - 0pts Be honest! Only universal Karma points. 🙂
-- 5pts Did you do push code to the existing code? Or did a bugfix?
+- 5pts Did you push code to the existing code? Or did you do a bugfix?
 - 5pts Communication until accepted students are announced.
 
 ### During the summer
